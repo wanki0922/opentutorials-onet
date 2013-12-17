@@ -26,60 +26,60 @@ if(!empty($_GET['id'])) {
                 font-family: dotum;
                 line-height: 1.6em;
             }
-            body.black {
+          body.black {
                 background-color: black;
                 color: white;
             }
-            body.black a {
+          body.black a {
                 color: white;
             }
-            body.black a:hover {
+          body.black a:hover {
                 color: #f60;
             }
-            body.black header {
+          body.black header {
                 border-bottom: 1px solid #333;
             }
-            body.black nav {
+          body.black nav {
                 border-right: 1px solid #333;
             }
-            header {
+          header {
                 border-bottom: 1px solid #ccc;
                 padding: 20px 0;
             }
-            #toolbar {
+          #toolbar {
                 padding: 10px;
                 float: right;
             }
-            nav {
+          nav {
                 float: left;
                 margin-right: 20px;
                 min-height: 500px;
                 border-right: 1px solid #ccc;
             }
-            nav ul {
+          nav ul {
                 list-style: none;
                 padding-left: 0;
                 padding-right: 20px;
             }
-            article {
+          article {
                 float: left;
             }
-            footer {
+          footer {
                 clear: both;
             }
-            a {
+          a {
                 text-decoration: none;
             }
-            a:link, a:visited {
+          a:link, a:visited {
                 color: #333;
             }
-            a:hover {
+          a:hover {
                 color: #f60;
             }
-            h1 {
+          h1 {
                 font-size: 1.4em;
             }
-            .description{
+          .description{
                 width:500px;
             }
 		</style>
